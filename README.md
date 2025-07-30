@@ -31,7 +31,7 @@ Designed with a clean mobile-like interface and glassmorphism-inspired UI.
 
 ## 📂 Project Structure
 
-temperature-converter/
+Temperature/
 │
 ├── temp.html          # ✅ Main HTML file
 ├── temp.css           # ✅ CSS file for styling
